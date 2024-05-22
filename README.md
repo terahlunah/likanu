@@ -12,11 +12,11 @@ Vowel diacritic/character `ȷ ı ʃ ſ` are mapped to the coresponding vowels `e
 
 The null consonant `o` is mapped to the "default vowel" `a`.
 
-The coda diacritic `᷆◌` (-n) is added to a consonant by typing `d` after the consonant.
+The coda diacritic `᷆◌̄` (-n) is added to a consonant by typing `d` after the consonant.
 
 ### Example
 
-To type `ʌʋ᷆ſ`, you should type `tldu` 
+To type `ʌʋ̄ſ`, you should type `tldu` 
 To type `ʋɛıʌʃ`, you should type `lcito`
 
 ---
