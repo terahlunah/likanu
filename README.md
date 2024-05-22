@@ -1,18 +1,18 @@
 # Likanu Keyboard for Windows
 
-This keyboard layout tries to make it easy to write [Kokanu](https://www.kokanu.com/) in the [Likanu](https://www.kokanu.com/en/docs/likanu) abugida
+This keyboard layout tries to make it easy to write [Kokanu](https://www.kokanu.com/) in the [Likanu](https://www.kokanu.com/en/docs/likanu) abugida by reusing qwerty muscle memory whenever possible.
 
 ---
 
 ## Mapping
 
-Consonants characters  `ʜ ʌ x ɕ ʋ ɞ ƨ ɤ ɵ` are mapped the the corresponding consonant `p t k w l m n s h`.
+Consonants characters `ʜ ʌ x ɕ ʋ ɞ ƨ ɤ ɵ` are mapped the the corresponding consonant `p t k w l m n s h`.
 
 Vowel diacritic/character `ȷ ı ʃ ſ` are mapped to the coresponding vowels `e i o u`.
 
-The null consonant `o` is mapped to "default vowel" `a`.
+The null consonant `o` is mapped to the "default vowel" `a`.
 
-The coda diacritic `᷆◌` is added to a consonant by typing `d` after the consonant.
+The coda diacritic `᷆◌` (-n) is added to a consonant by typing `d` after the consonant.
 
 ### Example
 
